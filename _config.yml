@@ -111,7 +111,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : "https://youtube.com/c/MichaelRoseDesign"
 
 
 # Reading Files
@@ -248,7 +248,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
    # _docs
@@ -258,3 +258,4 @@ defaults:
     values:
       sidebar:
         nav: "docs"
+
